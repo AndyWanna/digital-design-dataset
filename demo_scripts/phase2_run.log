@@ -1,0 +1,33 @@
+[phase2] classifying 2054 files across 654 designs
+  ... 200/2054
+  ... 400/2054
+  ... 600/2054
+  ... 800/2054
+  ... 1000/2054
+  ... 1200/2054
+  ... 1400/2054
+  ... 1600/2054
+  ... 1800/2054
+  ... 2000/2054
+
+=== FILE-LEVEL STATUS ===
+  SEQUENTIAL           1324
+  IDEAL                410
+  COMB_WITH_SUBMODS    144
+  OTHER                79
+  MULTI_MODULE         76
+  READ_FAIL            21
+
+=== COPIED: 410 files into roverlite/designs/ ===
+  opencores            120
+  lgsynth91            119
+  lgsynth89            64
+  hw2vec               54
+  hls_polybench        22
+  epfl                 20
+  iscas85              10
+  vtr                  1
+
+=== DESIGNS WITH ≥1 IDEAL FILE: 335 / 654 ===
+
+[phase2] full report: /usr/scratch/awanna3/EgraphRL/digital-design-dataset/demo_scripts/phase2_report.json

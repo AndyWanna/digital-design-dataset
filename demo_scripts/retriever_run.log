@@ -1,0 +1,47 @@
+[init] dataset at /usr/scratch/awanna3/EgraphRL/digital-design-dataset/demo_scripts/test_dataset_v2
+
+[run] iscas85 ...
+[done] iscas85
+
+[run] iscas89 ...
+[done] iscas89
+
+[run] lgsynth89 ...
+[done] lgsynth89
+
+[run] lgsynth91 ...
+[done] lgsynth91
+
+[run] vtr ...
+[done] vtr
+
+[run] koios ...
+[done] koios
+
+[run] epfl ...
+[done] epfl
+
+[run] opencores ...
+[done] opencores
+
+[run] hw2vec ...
+[done] hw2vec
+
+[run] opdb ...
+[done] opdb
+
+[run] polybench ...
+[done] polybench
+
+=== SUMMARY ===
+  iscas85: OK
+  iscas89: OK
+  lgsynth89: OK
+  lgsynth91: OK
+  vtr: OK
+  koios: OK
+  epfl: OK
+  opencores: OK
+  hw2vec: OK
+  opdb: OK
+  polybench: OK
